@@ -12,51 +12,128 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Onion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/Onion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/PizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChicagoPizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/ChicagoPizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PizzaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/PizzaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="287">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dough.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/Dough.java">
+      <file leaf-file-name="ChocolateController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/ChocolateController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+              <folding>
+                <element signature="e#237#413#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#692#868#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/staticss/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singletontest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/staticss/Singletontest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="e#249#412#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#451#614#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/classic/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassicTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/classic/ClassicTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding>
+                <element signature="e#275#515#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#554#775#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/singleton/subclass/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoolerSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/subclass/CoolerSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HotterSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/subclass/HotterSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/subclass/SingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -77,16 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/factory/pizzas/ViggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizzas/PizzaTest.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoStyleClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoStylePepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoStyleViggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/facotry/pizzafm/ChicagoStyleVeggiePizza.java" />
         <option value="$PROJECT_DIR$/src/facotry/pizzafm/NYStyleCheesePizza.java" />
         <option value="$PROJECT_DIR$/src/facotry/pizzafm/NYStyleClamPizza.java" />
         <option value="$PROJECT_DIR$/src/facotry/pizzafm/NYStylePepperoniPizza.java" />
@@ -128,6 +195,16 @@
         <option value="$PROJECT_DIR$/src/factory/pizzaaf/ChicagoPizzaStore.java" />
         <option value="$PROJECT_DIR$/src/factory/pizzaaf/PizzaTest.java" />
         <option value="$PROJECT_DIR$/src/factory/pizzaaf/ThickCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/singleton/ChocolateController.java" />
+        <option value="$PROJECT_DIR$/src/singleton/ChocolateBoiler.java" />
+        <option value="$PROJECT_DIR$/src/singleton/staticss/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/singleton/staticss/Singletontest.java" />
+        <option value="$PROJECT_DIR$/src/singleton/classic/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/singleton/classic/ClassicTest.java" />
+        <option value="$PROJECT_DIR$/src/singleton/subclass/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/singleton/subclass/CoolerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/singleton/subclass/HotterSingleton.java" />
+        <option value="$PROJECT_DIR$/src/singleton/subclass/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -140,7 +217,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -200,13 +277,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PizzaTest (2)">
-    <configuration name="PizzaTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="facotry.pizzafm.PizzaTest" />
+  <component name="RunManager" selected="Application.SingletonTest">
+    <configuration name="ChocolateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.ChocolateController" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="facotry.pizzafm.*" />
+          <option name="PATTERN" value="singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ClassicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.classic.ClassicTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.classic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,50 +308,40 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PizzaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.pizzas.PizzaTest" />
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.subclass.SingletonTest" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.pizzas.*" />
+          <option name="PATTERN" value="singleton.subclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decorator.StarbuzzCoffee" />
+    <configuration name="Singletontest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.staticss.Singletontest" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeatherStation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observer.weatherobserver.WeatherStation" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="observer.weatherobserver.*" />
+          <option name="PATTERN" value="singleton.staticss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation (2)" />
-      <item itemvalue="Application.StarbuzzCoffee" />
-      <item itemvalue="Application.PizzaTest" />
-      <item itemvalue="Application.PizzaTest (1)" />
       <item itemvalue="Application.PizzaTest (2)" />
+      <item itemvalue="Application.ChocolateController" />
+      <item itemvalue="Application.Singletontest" />
+      <item itemvalue="Application.ClassicTest" />
+      <item itemvalue="Application.SingletonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.ClassicTest" />
+        <item itemvalue="Application.Singletontest" />
+        <item itemvalue="Application.ChocolateController" />
         <item itemvalue="Application.PizzaTest (2)" />
-        <item itemvalue="Application.PizzaTest (1)" />
-        <item itemvalue="Application.PizzaTest" />
-        <item itemvalue="Application.StarbuzzCoffee" />
-        <item itemvalue="Application.WeatherStation (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,12 +364,12 @@
       <workItem from="1531991839078" duration="8885000" />
       <workItem from="1532045514335" duration="2777000" />
       <workItem from="1533000807686" duration="11750000" />
-      <workItem from="1533091715856" duration="537000" />
+      <workItem from="1533091715856" duration="6281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43452000" />
+    <option name="totallyTimeSpent" value="49196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,10 +381,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3337912" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282967" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -315,25 +393,24 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32971507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3093623" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30906594" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32971507" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13303342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2745358" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39835164" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282967" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,100 +421,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzas/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/ChicagoStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/ChicagoStylePepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/ChicagoStyleClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/NYStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/ChicagoStyleVeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/NYStyleClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/ChicagoPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/NYStylePepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/NYStyleVeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/pizzafm/NYPizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -821,8 +808,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/pizzaaf/PizzaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="287">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/ChocolateBoiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/ChocolateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#237#413#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#692#868#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/staticss/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/staticss/Singletontest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#249#412#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#451#614#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/classic/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/classic/ClassicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#275#515#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#775#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/subclass/CoolerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/subclass/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/subclass/HotterSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/subclass/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
