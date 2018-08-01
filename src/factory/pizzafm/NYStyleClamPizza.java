@@ -1,4 +1,4 @@
-package facotry.pizzafm;
+package factory.pizzafm;
 
 /**
  * @author Tianlong Zhang
@@ -6,12 +6,13 @@ package facotry.pizzafm;
  * @project DesignPattern
  * @Version 1.0.0
  */
-public class NYStyleCheesePizza extends Pizza {
-    public NYStyleCheesePizza() {
-        name = "NY Style Sauce and Cheese Pizza";
+public class NYStyleClamPizza extends Pizza {
+    public NYStyleClamPizza() {
+        name = "NY Style Clam Pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
 
         toppings.add("Grated Reggiano Cheese");
+        toppings.add("Fresh Clams from Long Island Sound");
     }
 }

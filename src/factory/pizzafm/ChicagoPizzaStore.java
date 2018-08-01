@@ -1,4 +1,4 @@
-package facotry.pizzafm;
+package factory.pizzafm;
 
 /**
  * @author Tianlong Zhang

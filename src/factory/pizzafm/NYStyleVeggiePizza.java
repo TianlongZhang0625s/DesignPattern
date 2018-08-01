@@ -1,4 +1,4 @@
-package facotry.pizzafm;
+package factory.pizzafm;
 
 /**
  * @author Tianlong Zhang
@@ -6,14 +6,13 @@ package facotry.pizzafm;
  * @project DesignPattern
  * @Version 1.0.0
  */
-public class NYStylePepperoniPizza extends Pizza {
-    public NYStylePepperoniPizza() {
-        name = "NY Style Pepperoni Pizza";
+public class NYStyleVeggiePizza extends  Pizza {
+    public NYStyleVeggiePizza() {
+        name = "NY Style Veggie Pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
 
         toppings.add("Grated Reggiano Cheese");
-        toppings.add("Sliced Pepperoni");
         toppings.add("Garlic");
         toppings.add("Onion");
         toppings.add("Mushrooms");

@@ -1,4 +1,4 @@
-package facotry.pizzafm;
+package factory.pizzafm;
 
 /**
  * @author Tianlong Zhang
@@ -6,9 +6,9 @@ package facotry.pizzafm;
  * @project DesignPattern
  * @Version 1.0.0
  */
-public class ChicagoStyleVeggiePizza extends Pizza {
-    public ChicagoStyleVeggiePizza() {
-        name = "Chicago Deep Dish Veggie Pizza";
+public class ChicagoStylePepperoniPizza extends Pizza {
+    public ChicagoStylePepperoniPizza() {
+        name = "Chicago Style Pepperoni Pizza";
         dough = "Extra Thick Crust Dough";
         sauce = "Plum Tomato Sauce";
 
@@ -16,6 +16,7 @@ public class ChicagoStyleVeggiePizza extends Pizza {
         toppings.add("Black Olives");
         toppings.add("Spinach");
         toppings.add("Eggplant");
+        toppings.add("Sliced Pepperoni");
     }
 
     void cut() {

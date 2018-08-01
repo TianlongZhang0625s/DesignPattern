@@ -9,6 +9,6 @@ package factory.pizzaaf;
 public class ThickCrustDough implements Dough {
     @Override
     public String toString() {
-        return "ThickCurst style extra thick crust dough";
+        return "Thick Crust style extra thick crust dough";
     }
 }

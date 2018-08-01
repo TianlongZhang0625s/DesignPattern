@@ -1,22 +1,21 @@
-package facotry.pizzafm;
+package factory.pizzafm;
 
 /**
  * @author Tianlong Zhang
- * @time 2018/7/31 11:19
+ * @time 2018/7/31 11:18
  * @project DesignPattern
  * @Version 1.0.0
  */
-public class ChicagoStyleClamPizza extends Pizza {
-    public ChicagoStyleClamPizza() {
-        name = "Chicago Style Clam Pizza";
+public class ChicagoStyleCheesePizza extends Pizza {
+    public ChicagoStyleCheesePizza() {
+        name = "Chicago Style Deep Dish Cheese Pizza";
         dough = "Extra Thick Crust Dough";
         sauce = "Plum Tomato Sauce";
 
         toppings.add("Shredded Mozzarella Cheese");
-        toppings.add("Frozen Clams from Chesapeake Bay");
     }
-
     void cut() {
         System.out.println("Cutting the pizza into square slices");
     }
+
 }
