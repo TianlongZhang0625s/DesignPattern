@@ -1,0 +1,35 @@
+package command.remoteWL;
+
+/**
+ * @author Tianlong Zhang
+ * @time 2018/8/2 10:05
+ * @project DesignPattern
+ * @Version 1.0.0
+ */
+public class GarageDoor {
+    String location;
+
+    public GarageDoor(String location) {
+        this.location = location;
+    }
+
+    public void up() {
+        System.out.println(location + " garage Door is Up");
+    }
+
+    public void down() {
+        System.out.println(location + " garage Door is Down");
+    }
+
+    public void stop() {
+        System.out.println(location + " garage Door is Stopped");
+    }
+
+    public void lightOn() {
+        System.out.println(location + " garage light is on");
+    }
+
+    public void lightOff() {
+        System.out.println(location + " garage light is off");
+    }
+}
